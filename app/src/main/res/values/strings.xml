@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TICTACTOE</string>
+    <string name="Heading">Welcome To TICTACTOE</string>
+    <string name="Grid">Our Main Grid</string>
+    <string name="Ending">Made With ❤️ By Team OverKill</string>
+    <string name="status">X\'s  Turn - Tap To Play</string>
+</resources>
